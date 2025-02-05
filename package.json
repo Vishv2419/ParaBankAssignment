@@ -1,0 +1,21 @@
+{
+  "name": "playwrightautomationlearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:headed": "npx playwright test --headed",  
+    "test:chrome": "npx playwright test --project=chromium",
+    "test:firefox": "npx playwright test --project=firefox",
+    "test:webkit": "npx playwright test --project=webkit",
+    "test:all": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.10.10",
+    "allure-playwright": "^3.1.0"
+  }
+}
