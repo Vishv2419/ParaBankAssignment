@@ -22,7 +22,7 @@ ParaBankAssignment project is an end-to-end automation framework built using Pla
 
  # Steps to Run the Automation Test
    -> Clone and Setup 
-      1. git clone https://github.com/nancygarg0530/ParaBankPlaywrightAutomation.git
+      1. git clone https://github.com/Vishv2419/ParaBankAssignment.git
       2. cd ParaBankPlaywrightAutomation
    -> Install Dependencies (PreRequisite : Node JS should be downloaded in the system and enviornment variable should be setup for the same)
       1. npm install
